@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Clone the repository:
 
-`git clone https://github.com/yourusername/SimpleNEM12Parser.git`
+`git clone https://github.com/danielmschofield/SimpleNem12Parser.git`
 
 Build the project:
 
